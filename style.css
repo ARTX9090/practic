@@ -1,0 +1,11 @@
+.text{
+    background-color: rgba(100, 50, 20, 0.55);
+}
+.favorite{
+    height: 60px;
+    background-color: aliceblue;
+    position: fixed;
+    left: 50%;
+    top: 5%;
+    transform: translate(-50%, -50%);
+}
